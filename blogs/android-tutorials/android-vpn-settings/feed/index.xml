@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Android VPN Settings	</title>
-	<atom:link href="/blogs/android-tutorials/android-vpn-settings/feed/" rel="self" type="application/rss+xml" />
-	<link>/blogs/android-tutorials/android-vpn-settings/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Android Tips &#38; Tricks Tutorials - Free Internet To All Networks Using VPN</description>
 	<lastBuildDate>Sun, 28 May 2023 12:49:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: Fionay Chan		</title>
-		<link>/blogs/android-tutorials/android-vpn-settings/#comment-940</link>
+		<link>./../index.html#comment-940</link>
 
 		<dc:creator><![CDATA[Fionay Chan]]></dc:creator>
 		<pubDate>Fri, 15 Oct 2021 07:47:15 +0000</pubDate>
-		<guid isPermaLink="false">/blogs/android-tutorials/android-vpn-settings/#comment-940</guid>
+		<guid isPermaLink="false">./../index.html#comment-940</guid>
 
 					<description><![CDATA[VPN itu buay apa om kegunaaanya]]></description>
 			<content:encoded><![CDATA[<p>VPN itu buay apa om kegunaaanya</p>

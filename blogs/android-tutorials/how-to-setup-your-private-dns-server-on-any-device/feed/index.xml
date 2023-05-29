@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: How To Setup Your Private DNS Server On Any Device	</title>
-	<atom:link href="/blogs/android-tutorials/how-to-setup-your-private-dns-server-on-any-device/feed/" rel="self" type="application/rss+xml" />
-	<link>/blogs/android-tutorials/how-to-setup-your-private-dns-server-on-any-device/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Android Tips &#38; Tricks Tutorials - Free Internet To All Networks Using VPN</description>
 	<lastBuildDate>Sun, 28 May 2023 12:50:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: Jefrey Balolot		</title>
-		<link>/blogs/android-tutorials/how-to-setup-your-private-dns-server-on-any-device/#comment-942</link>
+		<link>./../index.html#comment-942</link>
 
 		<dc:creator><![CDATA[Jefrey Balolot]]></dc:creator>
 		<pubDate>Thu, 09 Dec 2021 04:36:20 +0000</pubDate>
-		<guid isPermaLink="false">/blogs/android-tutorials/how-to-setup-your-private-dns-server-on-any-device/#comment-942</guid>
+		<guid isPermaLink="false">./../index.html#comment-942</guid>
 
 					<description><![CDATA[tanong ko lng malakas ba kumain ng data yang dns]]></description>
 			<content:encoded><![CDATA[<p>tanong ko lng malakas ba kumain ng data yang dns</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		By: Psybon149		</title>
-		<link>/blogs/android-tutorials/how-to-setup-your-private-dns-server-on-any-device/#comment-943</link>
+		<link>./../index.html#comment-943</link>
 
 		<dc:creator><![CDATA[Psybon149]]></dc:creator>
 		<pubDate>Wed, 03 Nov 2021 07:58:52 +0000</pubDate>
-		<guid isPermaLink="false">/blogs/android-tutorials/how-to-setup-your-private-dns-server-on-any-device/#comment-943</guid>
+		<guid isPermaLink="false">./../index.html#comment-943</guid>
 
 					<description><![CDATA[Where is private DNS in android version 7.1.2]]></description>
 			<content:encoded><![CDATA[<p>Where is private DNS in android version 7.1.2</p>

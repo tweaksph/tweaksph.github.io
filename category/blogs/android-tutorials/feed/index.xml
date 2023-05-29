@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Android Tutorials &#8211; Tweaks PH</title>
-	<atom:link href="/category/blogs/android-tutorials/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>Android Tips &#38; Tricks Tutorials - Free Internet To All Networks Using VPN</description>
 	<lastBuildDate>Sun, 28 May 2023 12:49:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</title>
-		<link>/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/</link>
-					<comments>/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/#comments</comments>
+		<link>./../../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Thu, 16 Feb 2023 16:14:02 +0000</pubDate>
@@ -48,9 +48,9 @@
 		<category><![CDATA[system logs]]></category>
 		<category><![CDATA[technical support]]></category>
 		<category><![CDATA[troubleshooting tips]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html</guid>
 
-					<description><![CDATA[Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New Are you tired of your Samsung or other Android devices running slowly or experiencing slow performance issues? One way to potentially improve your device&#8217;s slow performance is by deleting the system logs known as Dumpstate/Logcat. Well In this video, we&#8217;ll discuss how &#8230;<p class="read-more"> <a class="" href="/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/"> <span class="screen-reader-text">Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New Are you tired of your Samsung or other Android devices running slowly or experiencing slow performance issues? One way to potentially improve your device&#8217;s slow performance is by deleting the system logs known as Dumpstate/Logcat. Well In this video, we&#8217;ll discuss how &#8230;<p class="read-more"> <a class="" href="./../../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html"> <span class="screen-reader-text">Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New"   width="580" height="385" src="https://www.youtube.com/embed/AmW1LyMMILs" frameborder="0" allowfullscreen></iframe><br />
 <br />Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</p>
 <p>Are you tired of your Samsung or other Android devices running slowly or experiencing slow performance issues? </p>
@@ -67,15 +67,15 @@
 <br /><a href="https://www.youtube.com/watch?v=AmW1LyMMILs">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/feed/index.html</wfw:commentRss>
 			<slash:comments>15</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>18 Best DNS Servers for Gaming in PH 2023</title>
-		<link>/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/</link>
-					<comments>/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/#comments</comments>
+		<link>./../../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Fri, 06 Jan 2023 23:10:08 +0000</pubDate>
@@ -108,9 +108,9 @@
 		<category><![CDATA[how to get low ping]]></category>
 		<category><![CDATA[increase internet speed]]></category>
 		<category><![CDATA[Servers]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html</guid>
 
-					<description><![CDATA[18 best dns servers for gaming here in the Philippines ( ph ). pakisubukan po itong bagong dns servers natin mga ka tweaks ph. nakakatulong din ito para maging stable yung internet connection. panoorin niyo lang po andun po lahat sa video yung 18 best dns servers po for gaming dito po sa Philippines. disclaimer: &#8230;<p class="read-more"> <a class="" href="/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/"> <span class="screen-reader-text">18 Best DNS Servers for Gaming in PH 2023</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[18 best dns servers for gaming here in the Philippines ( ph ). pakisubukan po itong bagong dns servers natin mga ka tweaks ph. nakakatulong din ito para maging stable yung internet connection. panoorin niyo lang po andun po lahat sa video yung 18 best dns servers po for gaming dito po sa Philippines. disclaimer: &#8230;<p class="read-more"> <a class="" href="./../../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html"> <span class="screen-reader-text">18 Best DNS Servers for Gaming in PH 2023</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "18 Best DNS Servers for Gaming in PH 2023"   width="580" height="385" src="https://www.youtube.com/embed/IqVXIB29gTs" frameborder="0" allowfullscreen></iframe><br />
 <br />18 best dns servers for gaming here in the Philippines ( ph ).</p>
 <p>pakisubukan po itong bagong dns servers natin mga ka tweaks ph. </p>
@@ -121,15 +121,15 @@ hindi po ito working sa ibang areas.</p>
 <br /><a href="https://www.youtube.com/watch?v=IqVXIB29gTs">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/feed/index.html</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How To Block Ads From Your Android Device</title>
-		<link>/blogs/android-tutorials/how-to-block-ads-from-your-android-device/</link>
-					<comments>/blogs/android-tutorials/how-to-block-ads-from-your-android-device/#respond</comments>
+		<link>./../../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 14:58:37 +0000</pubDate>
@@ -159,7 +159,7 @@ hindi po ito working sa ibang areas.</p>
 		<category><![CDATA[stop ads]]></category>
 		<category><![CDATA[stop pop ups]]></category>
 		<category><![CDATA[tweaks ph]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/how-to-block-ads-from-your-android-device/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/index.html</guid>
 
 					<description><![CDATA[Tips on How to block ads from your android device. Disclaimer: Some old android device might not work or doesn&#8217;t have a settings like I showed you. (Private DNS) settings. #BlockAdsFromPhone #AndroidDevice #Ads source]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "How To Block Ads From Your Android Device"   width="580" height="385" src="https://www.youtube.com/embed/ImOAw_S6WlQ" frameborder="0" allowfullscreen></iframe><br />
@@ -170,15 +170,15 @@ Some old android device might not work or doesn&#8217;t have a settings like I s
 <br /><a href="https://www.youtube.com/watch?v=ImOAw_S6WlQ">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/how-to-block-ads-from-your-android-device/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to install Linux and Python using Termux from your Android Phone for Free</title>
-		<link>/blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/</link>
-					<comments>/blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/#respond</comments>
+		<link>./../../../../blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Thu, 15 Sep 2022 07:14:04 +0000</pubDate>
@@ -197,9 +197,9 @@ Some old android device might not work or doesn&#8217;t have a settings like I s
 		<category><![CDATA[python free android]]></category>
 		<category><![CDATA[samsung a52]]></category>
 		<category><![CDATA[termux]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/index.html</guid>
 
-					<description><![CDATA[How to install Linux and Python using Termux from your Android Phone for Free Today I&#8217;m going to show you how to install linux and python entirely from android phone. In that way you can practice your python skills anytime anywhere without using pc or laptop. This is not the really best option but it&#8217;s &#8230;<p class="read-more"> <a class="" href="/blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/"> <span class="screen-reader-text">How to install Linux and Python using Termux from your Android Phone for Free</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[How to install Linux and Python using Termux from your Android Phone for Free Today I&#8217;m going to show you how to install linux and python entirely from android phone. In that way you can practice your python skills anytime anywhere without using pc or laptop. This is not the really best option but it&#8217;s &#8230;<p class="read-more"> <a class="" href="./../../../../blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/index.html"> <span class="screen-reader-text">How to install Linux and Python using Termux from your Android Phone for Free</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "How to install Linux and Python using Termux from your Android Phone for Free"   width="580" height="385" src="https://www.youtube.com/embed/b3nDhPnCirc" frameborder="0" allowfullscreen></iframe><br />
 <br />How to install Linux and Python using Termux from your Android Phone for Free</p>
 <p>Today I&#8217;m going to show you how to install linux and python entirely from android phone. </p>
@@ -215,15 +215,15 @@ This video is for educational purposes only.</p>
 <br /><a href="https://www.youtube.com/watch?v=b3nDhPnCirc">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/how-to-install-linux-and-python-using-termux-from-your-android-phone-for-free/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>DNS_PROBE_FINISHED_NXDOMAIN: How To Fix It Using Mobile Phone on Chrome Browser</title>
-		<link>/blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/</link>
-					<comments>/blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/#comments</comments>
+		<link>./../../../../blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Sun, 26 Jun 2022 06:54:05 +0000</pubDate>
@@ -252,7 +252,7 @@ This video is for educational purposes only.</p>
 		<category><![CDATA[tweaksph]]></category>
 		<category><![CDATA[wordpress errors]]></category>
 		<category><![CDATA[wordpress errors and solutions]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/index.html</guid>
 
 					<description><![CDATA[This site can’t be reached, Check if there is a typo in YourDomain.com. DNS_PROBE_FINISHED_NXDOMAIN , How To Fix It Using Mobile Phone on Chrome Browser Super easy way to fix or solve that problem source]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "DNS_PROBE_FINISHED_NXDOMAIN: How To Fix It Using Mobile Phone on Chrome Browser"   width="580" height="385" src="https://www.youtube.com/embed/4YvOrGTlTRo" frameborder="0" allowfullscreen></iframe><br />
@@ -262,15 +262,15 @@ This video is for educational purposes only.</p>
 <br /><a href="https://www.youtube.com/watch?v=4YvOrGTlTRo">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/dns_probe_finished_nxdomain-how-to-fix-it-using-mobile-phone-on-chrome-browser/feed/index.html</wfw:commentRss>
 			<slash:comments>12</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How To Always Desktop View On Android</title>
-		<link>/blogs/android-tutorials/how-to-always-desktop-view-on-android/</link>
-					<comments>/blogs/android-tutorials/how-to-always-desktop-view-on-android/#comments</comments>
+		<link>./../../../../blogs/android-tutorials/how-to-always-desktop-view-on-android/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/how-to-always-desktop-view-on-android/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Fri, 08 Apr 2022 14:09:50 +0000</pubDate>
@@ -299,9 +299,9 @@ This video is for educational purposes only.</p>
 		<category><![CDATA[mobile view]]></category>
 		<category><![CDATA[request desktop site]]></category>
 		<category><![CDATA[View]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/how-to-always-desktop-view-on-android/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/how-to-always-desktop-view-on-android/index.html</guid>
 
-					<description><![CDATA[Hey, it&#8217;s Tweaks PH, for today&#8217;s video, I&#8217;ll help to with; how to always desktop view using your android or mobile devices. For this tutorial, I&#8217;m using the google chrome browser, simply because google chrome browser is the simplest and most user-friendly. It&#8217;s also fast in enabling or activating always desktop view or always desktop &#8230;<p class="read-more"> <a class="" href="/blogs/android-tutorials/how-to-always-desktop-view-on-android/"> <span class="screen-reader-text">How To Always Desktop View On Android</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Hey, it&#8217;s Tweaks PH, for today&#8217;s video, I&#8217;ll help to with; how to always desktop view using your android or mobile devices. For this tutorial, I&#8217;m using the google chrome browser, simply because google chrome browser is the simplest and most user-friendly. It&#8217;s also fast in enabling or activating always desktop view or always desktop &#8230;<p class="read-more"> <a class="" href="./../../../../blogs/android-tutorials/how-to-always-desktop-view-on-android/index.html"> <span class="screen-reader-text">How To Always Desktop View On Android</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "How To Always Desktop View On Android"   width="580" height="385" src="https://www.youtube.com/embed/Nx98n1EXpsE" frameborder="0" allowfullscreen></iframe><br />
 <br />Hey, it&#8217;s Tweaks PH, for today&#8217;s video, I&#8217;ll help to with; how to always desktop view using your android or mobile devices. </p>
 <p>For this tutorial, I&#8217;m using the google chrome browser, simply because google chrome browser is the simplest and most user-friendly. It&#8217;s also fast in enabling or activating always desktop view or always desktop mode. It&#8217;s also super easy to get back on mobile mode or mobile view using this great google chrome browser.</p>
@@ -310,15 +310,15 @@ This video is for educational purposes only.</p>
 <br /><a href="https://www.youtube.com/watch?v=Nx98n1EXpsE">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/how-to-always-desktop-view-on-android/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/how-to-always-desktop-view-on-android/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Stop Android Apps From Using Your Mobile Data</title>
-		<link>/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/</link>
-					<comments>/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/#comments</comments>
+		<link>./../../../../blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 05:43:37 +0000</pubDate>
@@ -335,7 +335,7 @@ This video is for educational purposes only.</p>
 		<category><![CDATA[Stop]]></category>
 		<category><![CDATA[Stop Android Apps From Controlling Your Mobile Data]]></category>
 		<category><![CDATA[Stop Android Apps From Using Your Mobile Data]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/index.html</guid>
 
 					<description><![CDATA[Stop Android Apps From Using Your Mobile Data source]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Stop Android Apps From Using Your Mobile Data"   width="580" height="385" src="https://www.youtube.com/embed/sDJ4hurIA88" frameborder="0" allowfullscreen></iframe><br />
@@ -343,15 +343,15 @@ This video is for educational purposes only.</p>
 <br /><a href="https://www.youtube.com/watch?v=sDJ4hurIA88">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Proxylite VPN Tutorial &#8211; Android Device</title>
-		<link>/blogs/android-tutorials/proxylite-vpn-tutorial-android-device/</link>
-					<comments>/blogs/android-tutorials/proxylite-vpn-tutorial-android-device/#comments</comments>
+		<link>./../../../../blogs/android-tutorials/proxylite-vpn-tutorial-android-device/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/proxylite-vpn-tutorial-android-device/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Thu, 21 Oct 2021 01:18:36 +0000</pubDate>
@@ -379,7 +379,7 @@ This video is for educational purposes only.</p>
 		<category><![CDATA[Tweaks]]></category>
 		<category><![CDATA[tweaks ph]]></category>
 		<category><![CDATA[VPN]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/proxylite-vpn-tutorial-android-device/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/proxylite-vpn-tutorial-android-device/index.html</guid>
 
 					<description><![CDATA[Hi ka tweaks ph, for todays video tutorial po kung paano gamitin si proxylite vpn app. Sa mga nagbabalak mag try ng free trial ito po ang links: Fb Page: http://www.facebook.com/proxylitevpnreseller Messenger: m.me/proxylitevpnreseller Proxylite vpn reseller official group: https://www.facebook.com/groups/1955852831260230/ #vpn #proxylite #android source]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Proxylite VPN Tutorial - Android Device"   width="580" height="385" src="https://www.youtube.com/embed/UnUplv1qON0" frameborder="0" allowfullscreen></iframe><br />
@@ -395,15 +395,15 @@ https://www.facebook.com/groups/1955852831260230/</p>
 <br /><a href="https://www.youtube.com/watch?v=UnUplv1qON0">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/proxylite-vpn-tutorial-android-device/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/proxylite-vpn-tutorial-android-device/feed/index.html</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Android VPN Settings</title>
-		<link>/blogs/android-tutorials/android-vpn-settings/</link>
-					<comments>/blogs/android-tutorials/android-vpn-settings/#comments</comments>
+		<link>./../../../../blogs/android-tutorials/android-vpn-settings/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/android-vpn-settings/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Thu, 02 Sep 2021 23:06:00 +0000</pubDate>
@@ -424,7 +424,7 @@ https://www.facebook.com/groups/1955852831260230/</p>
 		<category><![CDATA[VPN]]></category>
 		<category><![CDATA[vpn book]]></category>
 		<category><![CDATA[vpnbook]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/android-vpn-settings/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/android-vpn-settings/index.html</guid>
 
 					<description><![CDATA[I&#8217;ll show you how to setup a VPN connection on your Android device. #pptp #androidvpnconnection #vpn source]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Android VPN Settings"   width="580" height="385" src="https://www.youtube.com/embed/zOL1K-e0YBc" frameborder="0" allowfullscreen></iframe><br />
@@ -433,15 +433,15 @@ https://www.facebook.com/groups/1955852831260230/</p>
 <br /><a href="https://www.youtube.com/watch?v=zOL1K-e0YBc">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/android-vpn-settings/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/android-vpn-settings/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Proxylite Fast Connect &#8211; Swak Pang Module!</title>
-		<link>/blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/</link>
-					<comments>/blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/#respond</comments>
+		<link>./../../../../blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/index.html</link>
+					<comments>./../../../../blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Tue, 31 Aug 2021 10:51:13 +0000</pubDate>
@@ -477,9 +477,9 @@ https://www.facebook.com/groups/1955852831260230/</p>
 		<category><![CDATA[TNT]]></category>
 		<category><![CDATA[To]]></category>
 		<category><![CDATA[VPN]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/</guid>
+		<guid isPermaLink="false">./../../../../blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/index.html</guid>
 
-					<description><![CDATA[ProxyLite VPN or formerly SquashVPN was founded on May 2015 which aims to provide affordable VPN service with high quality of service and support. ProxyLite VPN operates in the Philippines and do serve a 24/7 auxiliary to ensure stability and server performance for our client satisfaction. Visit ProxyLite Fb Page here: https://www.facebook.com/proxylitevpnreseller/ Other related video: &#8230;<p class="read-more"> <a class="" href="/blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/"> <span class="screen-reader-text">Proxylite Fast Connect &#8211; Swak Pang Module!</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[ProxyLite VPN or formerly SquashVPN was founded on May 2015 which aims to provide affordable VPN service with high quality of service and support. ProxyLite VPN operates in the Philippines and do serve a 24/7 auxiliary to ensure stability and server performance for our client satisfaction. Visit ProxyLite Fb Page here: https://www.facebook.com/proxylitevpnreseller/ Other related video: &#8230;<p class="read-more"> <a class="" href="./../../../../blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/index.html"> <span class="screen-reader-text">Proxylite Fast Connect &#8211; Swak Pang Module!</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Proxylite Fast Connect - Swak Pang Module!"   width="580" height="385" src="https://www.youtube.com/embed/pCDq81l7MQw" frameborder="0" allowfullscreen></iframe><br />
 <br />ProxyLite VPN or formerly SquashVPN was founded on May 2015 which aims to provide affordable VPN service with high quality of service and support. ProxyLite VPN operates in the Philippines and do serve a 24/7 auxiliary to ensure stability and server performance for our client satisfaction. </p>
 <p>Visit ProxyLite Fb Page here:<br />
@@ -492,7 +492,7 @@ https://www.facebook.com/proxylitevpnreseller/</p>
 <br /><a href="https://www.youtube.com/watch?v=pCDq81l7MQw">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../blogs/android-tutorials/proxylite-fast-connect-swak-pang-module/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

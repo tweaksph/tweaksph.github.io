@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Blogs &#8211; Tweaks PH</title>
-	<atom:link href="/category/blogs/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Android Tips &#38; Tricks Tutorials - Free Internet To All Networks Using VPN</description>
 	<lastBuildDate>Sun, 28 May 2023 12:55:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>5G APN For Fast Internet Connection &#8211; Android and iPhone</title>
-		<link>/blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/</link>
-					<comments>/blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/#comments</comments>
+		<link>./../../../blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/index.html</link>
+					<comments>./../../../blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Sat, 01 Apr 2023 14:55:23 +0000</pubDate>
@@ -64,9 +64,9 @@
 		<category><![CDATA[top10]]></category>
 		<category><![CDATA[tutorial]]></category>
 		<category><![CDATA[tweaks ph]]></category>
-		<guid isPermaLink="false">/blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/</guid>
+		<guid isPermaLink="false">./../../../blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/index.html</guid>
 
-					<description><![CDATA[5G APN For Fast Internet Connection &#8211; Android and iPhone Are you tired of slow internet speeds on your Android or iPhone device? If so, you might want to try adjusting your APN settings to get a faster connection. In this video, we&#8217;ll show you how to configure your 5G APN settings for fast internet &#8230;<p class="read-more"> <a class="" href="/blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/"> <span class="screen-reader-text">5G APN For Fast Internet Connection &#8211; Android and iPhone</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[5G APN For Fast Internet Connection &#8211; Android and iPhone Are you tired of slow internet speeds on your Android or iPhone device? If so, you might want to try adjusting your APN settings to get a faster connection. In this video, we&#8217;ll show you how to configure your 5G APN settings for fast internet &#8230;<p class="read-more"> <a class="" href="./../../../blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/index.html"> <span class="screen-reader-text">5G APN For Fast Internet Connection &#8211; Android and iPhone</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "5G APN For Fast Internet Connection - Android and iPhone"   width="580" height="385" src="https://www.youtube.com/embed/R6SyAKi0Vt0" frameborder="0" allowfullscreen></iframe><br />
 <br />5G APN For Fast Internet Connection &#8211; Android and iPhone</p>
 <p>Are you tired of slow internet speeds on your Android or iPhone device? If so, you might want to try adjusting your APN settings to get a faster connection. In this video, we&#8217;ll show you how to configure your 5G APN settings for fast internet on your Android or iPhone device.</p>
@@ -94,15 +94,15 @@
 <br /><a href="https://www.youtube.com/watch?v=R6SyAKi0Vt0">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/free-internet/5g-apn-for-fast-internet-connection-android-and-iphone/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</title>
-		<link>/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/</link>
-					<comments>/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/#comments</comments>
+		<link>./../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html</link>
+					<comments>./../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Thu, 16 Feb 2023 16:14:02 +0000</pubDate>
@@ -128,9 +128,9 @@
 		<category><![CDATA[system logs]]></category>
 		<category><![CDATA[technical support]]></category>
 		<category><![CDATA[troubleshooting tips]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/</guid>
+		<guid isPermaLink="false">./../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html</guid>
 
-					<description><![CDATA[Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New Are you tired of your Samsung or other Android devices running slowly or experiencing slow performance issues? One way to potentially improve your device&#8217;s slow performance is by deleting the system logs known as Dumpstate/Logcat. Well In this video, we&#8217;ll discuss how &#8230;<p class="read-more"> <a class="" href="/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/"> <span class="screen-reader-text">Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New Are you tired of your Samsung or other Android devices running slowly or experiencing slow performance issues? One way to potentially improve your device&#8217;s slow performance is by deleting the system logs known as Dumpstate/Logcat. Well In this video, we&#8217;ll discuss how &#8230;<p class="read-more"> <a class="" href="./../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/index.html"> <span class="screen-reader-text">Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New"   width="580" height="385" src="https://www.youtube.com/embed/AmW1LyMMILs" frameborder="0" allowfullscreen></iframe><br />
 <br />Android Performance Optimization: How Deleting Dumpstate/Logcat Can Help Your Device Run Like New</p>
 <p>Are you tired of your Samsung or other Android devices running slowly or experiencing slow performance issues? </p>
@@ -147,15 +147,15 @@
 <br /><a href="https://www.youtube.com/watch?v=AmW1LyMMILs">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/android-tutorials/android-performance-optimization-how-deleting-dumpstate-logcat-can-help-your-device-run-like-new/feed/index.html</wfw:commentRss>
 			<slash:comments>15</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Activate Facebook Freemode on Globe and TM Simcards using Facebook Lite 2023</title>
-		<link>/blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/</link>
-					<comments>/blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/#comments</comments>
+		<link>./../../../blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/index.html</link>
+					<comments>./../../../blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Sun, 12 Feb 2023 18:23:25 +0000</pubDate>
@@ -193,9 +193,9 @@
 		<category><![CDATA[tm simcard]]></category>
 		<category><![CDATA[tutorial]]></category>
 		<category><![CDATA[User guide]]></category>
-		<guid isPermaLink="false">/blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/</guid>
+		<guid isPermaLink="false">./../../../blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/index.html</guid>
 
-					<description><![CDATA[In this tutorial, I&#8217;ll show you how to activate Facebook Freemode on Globe and TM simcards using Facebook Lite. Stay connected with your friends and family even without mobile data or internet connection. Watch now to learn the easy steps and start enjoying a seamless and uninterrupted Facebook experience! Visit the blog here: https://tweaksph.com/activate-facebook-freemode-globe-tm-simcards-lite/ #FacebookFreemode &#8230;<p class="read-more"> <a class="" href="/blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/"> <span class="screen-reader-text">Activate Facebook Freemode on Globe and TM Simcards using Facebook Lite 2023</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[In this tutorial, I&#8217;ll show you how to activate Facebook Freemode on Globe and TM simcards using Facebook Lite. Stay connected with your friends and family even without mobile data or internet connection. Watch now to learn the easy steps and start enjoying a seamless and uninterrupted Facebook experience! Visit the blog here: https://tweaksph.com/activate-facebook-freemode-globe-tm-simcards-lite/ #FacebookFreemode &#8230;<p class="read-more"> <a class="" href="./../../../blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/index.html"> <span class="screen-reader-text">Activate Facebook Freemode on Globe and TM Simcards using Facebook Lite 2023</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Activate Facebook Freemode on Globe and TM Simcards using Facebook Lite 2023"   width="580" height="385" src="https://www.youtube.com/embed/ZQZPBvTmKBA" frameborder="0" allowfullscreen></iframe><br />
 <br />In this tutorial, I&#8217;ll show you how to activate Facebook Freemode on Globe and TM simcards using Facebook Lite. Stay connected with your friends and family even without mobile data or internet connection. Watch now to learn the easy steps and start enjoying a seamless and uninterrupted Facebook experience!</p>
 <p>Visit the blog here: https://tweaksph.com/activate-facebook-freemode-globe-tm-simcards-lite/</p>
@@ -203,15 +203,15 @@
 <br /><a href="https://www.youtube.com/watch?v=ZQZPBvTmKBA">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/facebook-tutorials/activate-facebook-freemode-on-globe-and-tm-simcards-using-facebook-lite-2023/feed/index.html</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>18 Best DNS Servers for Gaming in PH 2023</title>
-		<link>/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/</link>
-					<comments>/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/#comments</comments>
+		<link>./../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html</link>
+					<comments>./../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Fri, 06 Jan 2023 23:10:08 +0000</pubDate>
@@ -244,9 +244,9 @@
 		<category><![CDATA[how to get low ping]]></category>
 		<category><![CDATA[increase internet speed]]></category>
 		<category><![CDATA[Servers]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/</guid>
+		<guid isPermaLink="false">./../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html</guid>
 
-					<description><![CDATA[18 best dns servers for gaming here in the Philippines ( ph ). pakisubukan po itong bagong dns servers natin mga ka tweaks ph. nakakatulong din ito para maging stable yung internet connection. panoorin niyo lang po andun po lahat sa video yung 18 best dns servers po for gaming dito po sa Philippines. disclaimer: &#8230;<p class="read-more"> <a class="" href="/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/"> <span class="screen-reader-text">18 Best DNS Servers for Gaming in PH 2023</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[18 best dns servers for gaming here in the Philippines ( ph ). pakisubukan po itong bagong dns servers natin mga ka tweaks ph. nakakatulong din ito para maging stable yung internet connection. panoorin niyo lang po andun po lahat sa video yung 18 best dns servers po for gaming dito po sa Philippines. disclaimer: &#8230;<p class="read-more"> <a class="" href="./../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/index.html"> <span class="screen-reader-text">18 Best DNS Servers for Gaming in PH 2023</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "18 Best DNS Servers for Gaming in PH 2023"   width="580" height="385" src="https://www.youtube.com/embed/IqVXIB29gTs" frameborder="0" allowfullscreen></iframe><br />
 <br />18 best dns servers for gaming here in the Philippines ( ph ).</p>
 <p>pakisubukan po itong bagong dns servers natin mga ka tweaks ph. </p>
@@ -257,15 +257,15 @@ hindi po ito working sa ibang areas.</p>
 <br /><a href="https://www.youtube.com/watch?v=IqVXIB29gTs">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/android-tutorials/18-best-dns-servers-for-gaming-in-ph-2023/feed/index.html</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>4G Speed for All Network 2023 Setup &#124; APN Setting</title>
-		<link>/blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/</link>
-					<comments>/blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/#comments</comments>
+		<link>./../../../blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/index.html</link>
+					<comments>./../../../blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Fri, 06 Jan 2023 14:52:19 +0000</pubDate>
@@ -302,7 +302,7 @@ hindi po ito working sa ibang areas.</p>
 		<category><![CDATA[setup]]></category>
 		<category><![CDATA[smart apn 2023]]></category>
 		<category><![CDATA[Speed]]></category>
-		<guid isPermaLink="false">/blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/</guid>
+		<guid isPermaLink="false">./../../../blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/index.html</guid>
 
 					<description><![CDATA[4G speed for all network 2023. Ito po ay android phone setting para mapalakas ang internet speed niyo. disclaimer: Hindi po ito working sa ibang areas. #apnsetting #4gspeed #forallnetwork source]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "4G Speed for All Network 2023 Setup | APN Setting"   width="580" height="385" src="https://www.youtube.com/embed/db24CyYi5xo" frameborder="0" allowfullscreen></iframe><br />
@@ -314,15 +314,15 @@ Hindi po ito working sa ibang areas. </p>
 <br /><a href="https://www.youtube.com/watch?v=db24CyYi5xo">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/free-internet/4g-speed-for-all-network-2023-setup-apn-setting/feed/index.html</wfw:commentRss>
 			<slash:comments>13</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Free Facebook for Globe and TM Latest Update 2022</title>
-		<link>/blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/</link>
-					<comments>/blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/#comments</comments>
+		<link>./../../../blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/index.html</link>
+					<comments>./../../../blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Wed, 23 Nov 2022 16:38:13 +0000</pubDate>
@@ -346,9 +346,9 @@ Hindi po ito working sa ibang areas. </p>
 		<category><![CDATA[rebulika ng tm]]></category>
 		<category><![CDATA[TM]]></category>
 		<category><![CDATA[Update]]></category>
-		<guid isPermaLink="false">/blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/</guid>
+		<guid isPermaLink="false">./../../../blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/index.html</guid>
 
-					<description><![CDATA[Globe &#038; TM Free Facebook Latest Update 2022 I&#8217;ll show you how to free facebook for globe and tm network. Using google chrome browser from your smartphone, from android to IOS. You can also try other preferred browsers. 😉 This free facebook is legally allowed on globe and tm users as part of there program &#8230;<p class="read-more"> <a class="" href="/blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/"> <span class="screen-reader-text">Free Facebook for Globe and TM Latest Update 2022</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Globe &#038; TM Free Facebook Latest Update 2022 I&#8217;ll show you how to free facebook for globe and tm network. Using google chrome browser from your smartphone, from android to IOS. You can also try other preferred browsers. 😉 This free facebook is legally allowed on globe and tm users as part of there program &#8230;<p class="read-more"> <a class="" href="./../../../blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/index.html"> <span class="screen-reader-text">Free Facebook for Globe and TM Latest Update 2022</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "Free Facebook for Globe and TM Latest Update 2022"   width="580" height="385" src="https://www.youtube.com/embed/2URmdUQ5tug" frameborder="0" allowfullscreen></iframe><br />
 <br />Globe &#038; TM Free Facebook Latest Update 2022</p>
 <p>I&#8217;ll show you how to free facebook for globe and tm network. </p>
@@ -366,15 +366,15 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 <br /><a href="https://www.youtube.com/watch?v=2URmdUQ5tug">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/facebook-tutorials/free-facebook-for-globe-and-tm-latest-update-2022/feed/index.html</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How To Remove Facebook Messenger Account Latest Update</title>
-		<link>/blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/</link>
-					<comments>/blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/#respond</comments>
+		<link>./../../../blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/index.html</link>
+					<comments>./../../../blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2022 17:34:28 +0000</pubDate>
@@ -396,9 +396,9 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 		<category><![CDATA[Remove]]></category>
 		<category><![CDATA[signout]]></category>
 		<category><![CDATA[Update]]></category>
-		<guid isPermaLink="false">/blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/</guid>
+		<guid isPermaLink="false">./../../../blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/index.html</guid>
 
-					<description><![CDATA[In today&#8217;s video. Ituturo ko kung paano mag removed ng facebook messager account latest update. Pwede mo din i removed yung ibang naka login na accounts sa ibang websites or apps etc. Napakadali at super easily, simple way to removed facebook messenger account or any account na naka login sa ibang websites or apps. #Messenger &#8230;<p class="read-more"> <a class="" href="/blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/"> <span class="screen-reader-text">How To Remove Facebook Messenger Account Latest Update</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[In today&#8217;s video. Ituturo ko kung paano mag removed ng facebook messager account latest update. Pwede mo din i removed yung ibang naka login na accounts sa ibang websites or apps etc. Napakadali at super easily, simple way to removed facebook messenger account or any account na naka login sa ibang websites or apps. #Messenger &#8230;<p class="read-more"> <a class="" href="./../../../blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/index.html"> <span class="screen-reader-text">How To Remove Facebook Messenger Account Latest Update</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "How To Remove Facebook Messenger Account Latest Update"   width="580" height="385" src="https://www.youtube.com/embed/0lNUsAa2Tb8" frameborder="0" allowfullscreen></iframe><br />
 <br />In today&#8217;s video. Ituturo ko kung paano mag removed ng facebook messager account latest update. </p>
 <p>Pwede mo din i removed yung ibang naka login na accounts sa ibang websites or apps etc.</p>
@@ -407,15 +407,15 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 <br /><a href="https://www.youtube.com/watch?v=0lNUsAa2Tb8">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/facebook-tutorials/how-to-remove-facebook-messenger-account-latest-update/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>5 Smart TNT Sun APN Settings for Faster Internet Connection &#8211; LATEST 2022</title>
-		<link>/blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/</link>
-					<comments>/blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/#comments</comments>
+		<link>./../../../blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/index.html</link>
+					<comments>./../../../blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Tue, 08 Nov 2022 17:02:33 +0000</pubDate>
@@ -441,9 +441,9 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 		<category><![CDATA[Talk n Text APN settings]]></category>
 		<category><![CDATA[TNT]]></category>
 		<category><![CDATA[tweaks ph]]></category>
-		<guid isPermaLink="false">/blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/</guid>
+		<guid isPermaLink="false">./../../../blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/index.html</guid>
 
-					<description><![CDATA[5 Smart TNT Sun APN Settings for Faster Internet Connection &#8211; LATEST 2022 Let&#8217;s make your Smart TNT Sun sim or network internet connection speed more faster than usual. Using this new 5 Smart TNT Sun apn settings, experience way smoother internet speed than your normally used to. Smart TNT and Sun APN Settings lang &#8230;<p class="read-more"> <a class="" href="/blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/"> <span class="screen-reader-text">5 Smart TNT Sun APN Settings for Faster Internet Connection &#8211; LATEST 2022</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[5 Smart TNT Sun APN Settings for Faster Internet Connection &#8211; LATEST 2022 Let&#8217;s make your Smart TNT Sun sim or network internet connection speed more faster than usual. Using this new 5 Smart TNT Sun apn settings, experience way smoother internet speed than your normally used to. Smart TNT and Sun APN Settings lang &#8230;<p class="read-more"> <a class="" href="./../../../blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/index.html"> <span class="screen-reader-text">5 Smart TNT Sun APN Settings for Faster Internet Connection &#8211; LATEST 2022</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "5 Smart TNT Sun APN Settings for Faster Internet Connection - LATEST 2022"   width="580" height="385" src="https://www.youtube.com/embed/AZCts0u69vE" frameborder="0" allowfullscreen></iframe><br />
 <br />5 Smart TNT Sun APN Settings for Faster Internet Connection &#8211; LATEST 2022</p>
 <p>Let&#8217;s make your Smart TNT Sun sim or network internet connection speed more faster than usual.  </p>
@@ -459,15 +459,15 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 <br /><a href="https://www.youtube.com/watch?v=AZCts0u69vE">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/free-internet/5-smart-tnt-sun-apn-settings-for-faster-internet-connection-latest-2022/feed/index.html</wfw:commentRss>
 			<slash:comments>8</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>4 GLOBE TM APN Settings for Faster Internet Connection &#8211; LATEST!</title>
-		<link>/blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/</link>
-					<comments>/blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/#comments</comments>
+		<link>./../../../blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/index.html</link>
+					<comments>./../../../blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2022 15:49:39 +0000</pubDate>
@@ -491,9 +491,9 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 		<category><![CDATA[new apn for tm]]></category>
 		<category><![CDATA[Settings]]></category>
 		<category><![CDATA[stable apn for globe]]></category>
-		<guid isPermaLink="false">/blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/</guid>
+		<guid isPermaLink="false">./../../../blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/index.html</guid>
 
-					<description><![CDATA[4 GLOBE TM APN Settings for Faster Internet Connection &#8211; LATEST! Let&#8217;s make your globe tm sim or network internet connection speed more faster than usual. Using this new 4 Globe TM apn settings, experience way smoother internet speed than your normally used to. Globe TM APN Settings lang po siya pero pwede niyo po &#8230;<p class="read-more"> <a class="" href="/blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/"> <span class="screen-reader-text">4 GLOBE TM APN Settings for Faster Internet Connection &#8211; LATEST!</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[4 GLOBE TM APN Settings for Faster Internet Connection &#8211; LATEST! Let&#8217;s make your globe tm sim or network internet connection speed more faster than usual. Using this new 4 Globe TM apn settings, experience way smoother internet speed than your normally used to. Globe TM APN Settings lang po siya pero pwede niyo po &#8230;<p class="read-more"> <a class="" href="./../../../blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/index.html"> <span class="screen-reader-text">4 GLOBE TM APN Settings for Faster Internet Connection &#8211; LATEST!</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "4 GLOBE TM APN Settings for Faster Internet Connection - LATEST!"   width="580" height="385" src="https://www.youtube.com/embed/HgxjD0hEtdg" frameborder="0" allowfullscreen></iframe><br />
 <br />4 GLOBE TM APN Settings for Faster Internet Connection &#8211; LATEST!</p>
 <p>Let&#8217;s make your globe tm sim or network internet connection speed more faster than usual.  </p>
@@ -509,15 +509,15 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 <br /><a href="https://www.youtube.com/watch?v=HgxjD0hEtdg">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/free-internet/4-globe-tm-apn-settings-for-faster-internet-connection-latest/feed/index.html</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How To Block Ads From Your Android Device</title>
-		<link>/blogs/android-tutorials/how-to-block-ads-from-your-android-device/</link>
-					<comments>/blogs/android-tutorials/how-to-block-ads-from-your-android-device/#respond</comments>
+		<link>./../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/index.html</link>
+					<comments>./../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[jphabs]]></dc:creator>
 		<pubDate>Thu, 27 Oct 2022 14:58:37 +0000</pubDate>
@@ -547,7 +547,7 @@ https://tweaksph.com/free-facebook-for-globe-and-tm-latest-update-2022/</p>
 		<category><![CDATA[stop ads]]></category>
 		<category><![CDATA[stop pop ups]]></category>
 		<category><![CDATA[tweaks ph]]></category>
-		<guid isPermaLink="false">/blogs/android-tutorials/how-to-block-ads-from-your-android-device/</guid>
+		<guid isPermaLink="false">./../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/index.html</guid>
 
 					<description><![CDATA[Tips on How to block ads from your android device. Disclaimer: Some old android device might not work or doesn&#8217;t have a settings like I showed you. (Private DNS) settings. #BlockAdsFromPhone #AndroidDevice #Ads source]]></description>
 										<content:encoded><![CDATA[<p><iframe title = "How To Block Ads From Your Android Device"   width="580" height="385" src="https://www.youtube.com/embed/ImOAw_S6WlQ" frameborder="0" allowfullscreen></iframe><br />
@@ -558,7 +558,7 @@ Some old android device might not work or doesn&#8217;t have a settings like I s
 <br /><a href="https://www.youtube.com/watch?v=ImOAw_S6WlQ">source</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/blogs/android-tutorials/how-to-block-ads-from-your-android-device/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../blogs/android-tutorials/how-to-block-ads-from-your-android-device/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

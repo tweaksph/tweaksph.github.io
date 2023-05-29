@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Stop Android Apps From Using Your Mobile Data	</title>
-	<atom:link href="/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/feed/" rel="self" type="application/rss+xml" />
-	<link>/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Android Tips &#38; Tricks Tutorials - Free Internet To All Networks Using VPN</description>
 	<lastBuildDate>Sun, 28 May 2023 12:49:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: NBLE Lioe		</title>
-		<link>/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/#comment-937</link>
+		<link>./../index.html#comment-937</link>
 
 		<dc:creator><![CDATA[NBLE Lioe]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 07:17:30 +0000</pubDate>
-		<guid isPermaLink="false">/blogs/android-tutorials/stop-android-apps-from-using-your-mobile-data/#comment-937</guid>
+		<guid isPermaLink="false">./../index.html#comment-937</guid>
 
 					<description><![CDATA[Salamat lodz sa mobile data saving tricks]]></description>
 			<content:encoded><![CDATA[<p>Salamat lodz sa mobile data saving tricks</p>
